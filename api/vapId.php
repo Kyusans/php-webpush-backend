@@ -8,6 +8,6 @@ $vapidKeys = VAPID::createVapidKeys();
 var_dump(VAPID::createVapidKeys());
 
 /* 
-  ["publicKey"]=> BA-Nqq2lYA6oDxHWLf-He6WjjjwQp-A_k_pGwBHg2vx8S0Nu-bKI1zD-WUpnDywVmJ8KCMZvmVxfhBtHPTQwqbE
-  ["privateKey"]=> M_mjCj0IkN-D1tq0RyPd3uISOXSJkjJrLVwZbYyKx0Y
+  ["publicKey"]=> BOzeUpvZ9K0cw0v4Us7gad1C11aMEwmxmF95_gb6_y7FP_aQMY2F7aFU3z8vqa-c1M6FSdfW5bTXPoMS1k0pNIc
+  ["privateKey"]=> qvL8murvzGZtXGlrheqo6-96ZRjl1yxLCiDiNhDf98k
 */
